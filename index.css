@@ -1,0 +1,6 @@
+body{
+
+}
+#aaa{
+    background-color: color-mix(in oklab, color percentage, color percentage);
+}
